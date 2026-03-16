@@ -1,10 +1,6 @@
-
 fastapi
 uvicorn
 httpx
 pytest
 anyio
 pydantic
-
-
-
